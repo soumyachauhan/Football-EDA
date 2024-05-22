@@ -60,7 +60,7 @@ The data has been sourced from [Kaggle](https://www.kaggle.com/datasets/thedevas
  Libraries required are `numpy` ,`pandas` ,`seaborn` ,`matplotlib` ,`plotly` ,`dash` ,`ipywidgets` ,`scipy` and `scikit-learn`.
 
 ## Acknowledgments
- * We extend our gratitude to [dcereijo](https://data.world/dcereijo) for providing the dataset used in this analysis.
+ * We extend our gratitude to [David Cereijo]((https://github.com/dcaribou)) for providing the dataset used in this analysis.
  * We appreciate the contributions of the open-source community and the various libraries utilized in this project.
 
 ## Contact 
